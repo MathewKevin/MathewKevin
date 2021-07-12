@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MathewKevin
 - 👀 I’m interested in technologies that creates an impact in all lives and shapes the future
-- 🌱 I’m currently learning Artificial Intelligence (a small portion of it 😋)
+- 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on interesting projects that solve real world problems
 - 📫 How to reach me : www.linkedin.com/in/mathew-kevin
 
